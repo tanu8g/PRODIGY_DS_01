@@ -30,7 +30,6 @@ Create a bar chart or histogram to visualize the distribution of a **categorical
 **Name:** Tanisa Singh    
 📬 Email: [tanu36058@gmail.com](mailto:tanu36058@gmail.com)  
 🔗 LinkedIn: https://www.linkedin.com/in/tanisa-singh-089958375  
-📍 Location: Kanpur, Uttar Pradesh
 
 ---
 
